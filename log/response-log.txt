@@ -1,0 +1,52 @@
+{
+  "message": "comment created and associated with content_id 1", 
+  "status": "SUCCESS"
+}
+{
+  "message": "comment created and associated with content_id 1", 
+  "status": "SUCCESS"
+}
+{
+  "message": "comment created and associated with content_id 1", 
+  "status": "SUCCESS"
+}
+{
+  "message": "comment created and associated with content_id 2", 
+  "status": "SUCCESS"
+}
+{
+  "message": "comment created and associated with content_id 2", 
+  "status": "SUCCESS"
+}
+{
+  "message": "comment created and associated with content_id 2", 
+  "status": "SUCCESS"
+}
+[
+  {
+    "comment": "first post!", 
+    "email": "alice@example.com"
+  }, 
+  {
+    "comment": "ok, now I am gonna say something more useful", 
+    "email": "alice@example.com"
+  }, 
+  {
+    "comment": "I agree", 
+    "email": "bob@example.com"
+  }
+]
+[
+  {
+    "comment": "I guess this is a good thing", 
+    "email": "bob@example.com"
+  }, 
+  {
+    "comment": "Indeed, dear Bob, I believe so as well", 
+    "email": "charlie@example.com"
+  }, 
+  {
+    "comment": "Nah, you both are wrong", 
+    "email": "eve@example.com"
+  }
+]

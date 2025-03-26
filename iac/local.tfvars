@@ -1,0 +1,2 @@
+namespace = "comentario"
+environment = "local"

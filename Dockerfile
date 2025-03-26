@@ -10,4 +10,4 @@ COPY app/ .
 
 EXPOSE 8000
 
-CMD ["gunicorn", "--bind", "0.0.0.0:8000", "--log-level", "debug", "app:app"]
+CMD ["gunicorn", "--bind", "0.0.0.0:8000", "--log-level", "debug", "api:app"]
